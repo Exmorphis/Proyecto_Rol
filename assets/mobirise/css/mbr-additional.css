@@ -6244,6 +6244,59 @@ body {
 .cid-rqJWSp9nnI .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rqLaCaoo6Z {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-rqLaCaoo6Z P {
+  color: #767676;
+}
+.cid-rqLaQ1i0Z2 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/jinetes-del-apocalipsis-2000x759.jpg");
+}
+.cid-rqLaJ9FLQA {
+  padding-top: 90px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/creation-1920x1080.jpg");
+}
+.cid-rqLaJ9FLQA .card-img {
+  background-color: #fff;
+}
+.cid-rqLaJ9FLQA .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-rqLaJ9FLQA h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rqLaJ9FLQA p {
+  text-align: left;
+}
+.cid-rqLaJ9FLQA .mbr-text {
+  color: #767676;
+}
+.cid-rqLaJ9FLQA .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rqLaJ9FLQA .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rqLaJ9FLQA .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
 .cid-rqJWUljDUX {
   padding-top: 30px;
   padding-bottom: 30px;
